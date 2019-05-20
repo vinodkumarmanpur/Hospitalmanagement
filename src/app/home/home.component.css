@@ -1,0 +1,44 @@
+.img-responsive{
+margin-top:8px;
+margin-left:-10px;
+}
+.grey{
+  margin: 10px;
+  text-decoration: none;
+  font-size: 12px;
+  font-family: sans-serif;
+  background-color: rgb(17, 126, 14);
+  color:white;
+  float: left;
+  padding: 15px;
+  border-radius: 20px;
+  width: 20%;
+}
+.green{
+  margin: 10px;
+  font-size: 12px;
+  text-decoration: none;
+  font-family: sans-serif;
+  float: left;
+  padding: 15px;
+  border: 1px solid #dddddd;
+  border-radius: 20px;
+  width: 20%;
+}
+
+.light-green{
+  margin: 10px;
+  font-size: 12px;
+  text-decoration: none;
+  font-family: sans-serif;
+  float: left;
+  padding: 15px;
+  border: 1px solid #dddddd;
+  border-radius: 20px;
+  width: 20%;
+}
+
+.information{
+float: left;
+}
+
